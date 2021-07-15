@@ -1,0 +1,138 @@
+==========================================REACT NATIVE============================================================
+
+We are looking for skilled JavaScript developers who are proficient with React Native. The primary focus will be on developing user interface components, reusable components and implementing them with well-known React.js workflows (such as Flux or Redux or Context API) which will be followed by ES6 / ES7 / ES8 standards.
+Roles & Responsibilities
+Tasks & Activities
+Requirement Gathering from Business/Stakeholders Discussion with the client/business team to understand their requirements. Ask relevant questions to clarify the business requirements. If needed, document the business rules.
+Estimations & Task Planning Divide the project into modules and tasks based on the business requirement or SRS. Estimate time for the modules/tasks based on different estimation techniques. Prepare project plan and WBS which will have each module and tasks with specific start and end date. Seek approval from all the stakeholders on WBS and prepare the project plan accordingly. You should be well-versed with the project management tool.
+Database creation & updating custom modules Identify the modules/tasks and prepare the database designs using MySQL Workbench. Discuss the same with the team members and seek approval from the stakeholders.
+Coding, Debugging, Unit Testing & Documentation of Code and Application As per the best standard practices and guidelines, code each module within the timeline mentioned in WBS. Debug and unit test the code/module. Ability to write testable code and use testing utility & tools. (Example: Jest/Jasmine/Mocha and test runner like Karma/Chutzpah). Use appropriate versioning tools like GIT, SVN, etc. Document the code and application which later can be shared with the client. Prepare the user manuals for custom module/code which needs to be shared with the client and used for training purposes as well. Optimize the website after checking through benchmarking tools like www.gtmetrix.com or Google Page Speed. Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
+Project Deployment & Maintenance Check all the deployment checklist before putting anything on production. Update the security patches whenever those are available.
+Mandatory Skills & Knowledge
+Minimum 2 years of development experience in React Native, Redux/context api or any other state management library
+Good understanding and experience of Flex / Javascript / Webpack / Bootstrap.
+Hands-on experience with ES6 / ES7 / ES8 features.
+Expertise with Web Services / REST APIs.
+Proficiency in App Store, play Store deployment
+Familiarity with Redux Thunk / Redux Saga will be an added advantage.
+Skillful experience in Typescript/ Node JS / Express / MongoDB will be a plus.
+Understanding of web application like React.
+Knowledge of AWS services like S3, EC2 would be valuable.
+Expertise in Agile and CI/CD would be beneficial.
+Technologies / Frameworks / Tools / Proficiency
+
+Technologies
+React Native, React
+Redux / MobX / Context API.
+ES6 / ES7 / ES8
+Flex
+SQLite, IndexedDB
+Tools
+Visual Studio Code / WebStorm.
+Operating System: Ubuntu / Mac OS X / OS X / macOS
+GIT / SVN.
+Proficiency
+Flex.
+Async Storage.
+What's in it for you?
+Opportunity to grow and scale high with us.
+Work in a fun, transparent atmosphere alongside a collaborative team.
+Guidance and support from the senior staff for your growth.
+Competitive salary with added benefits.
+------------------------------------------------
+Requirements:
+
+ 
+
+Excellent knowledge of HTML5, CSS3.
+Excellent knowledge of JavaScript, Jquery.
+Excellent knowledge of JavaScript MVC architecture and OOP programming style.
+Good understanding and experience of working on Vue.js/React.js.
+Our tech stack is Node.js/Python/Java + DynamoDB/Cassandra + Redis + Elasticsearch +Vue.js.
+Knowledge of version control systems like GIT.
+A minimum of 1 year of experience is needed.
+------------------------------------------------------
+Requirements
+
+
+2+ years in front-end development (HTML5/CSS3/JavaScript, XML, JSON, React/Angular)
+Experience mentoring junior software engineers to improve their skills and make them more effective product software engineers
+Experience influencing software engineers’ best practices within your team
+Passion to design and develop intuitive user interfaces.
+Ability to achieve stretch goals in a highly innovative and fast paced environment.
+Sound business judgment, proven ability to influence others and strong analytical thinking skills
+BS/MS degree in Computer Science
+
+--------------------------------------------------
+Basic Qualifications
+2+ years of non-internship professional software development experience
+Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+Expertise in Android SDK, Java and Android Studio/IntelliJ, and cross-platform technologies such as React Native
+
+==========================================ANDROID============================================================
+
+object-oriented concepts & design patterns.(Done)
+Kotlin.(Done)
+architecture like MVC, MVVM(Done)
+common Java and Android design patterns.
+Android compatibility APIs, Android Fragments.(Done)
+Android User Interface API, spanning multiple device configurations.
+networking with Async tasks and HttpConnection and loaders.
+Web Services and common data interchange formats: JSON, XML.
+Android Jetpack.(Done)
+Local data storage using SQLite databases(Done) and shared preferences(Done).
+google Fit and Bluetooth APIs.(Done)
+Lollipop - key frameworks, tools, technologies end-user and developer enhancements
+application profiling and instrumentation with debugger and gauges.
+Has shipped multiple Android applications and demonstrate this where possible.
+application deployment and Code-signing.
+==============================================================
+Friday-Android Jetpack.(Done)
+saturday-Ble(Done),React native(Done),
+Sunday - Purva's questions,project related reading(HID integration, Map integration, Stripe Payment integration,Push Notifications,Charts)(Done)
+Monday -Demo(Room, coroutine, mvvm, data binding,navigation graph,Live Data)
+==============================================================
+What is ktx?  
+What is Jackson? Difference between Gson and Jackson  
+var and val in kotlin  
+Extension functions  
+it keyword in kotlin  
+If else condition using let in kotlin  
+HTTP caching  
+How to make a global error class for Retrofit errors?  
+Use of Databinding  
+ConstraintLayout barrier and guideline  
+Explain RxJava Marble diagram  
+Map vs Flatmap  
+How to update observer using livedata only once  
+what is Lambda  
+Why not Koin? Why Dagger?  
+Why RxJava? Why not coroutines?  
+Livedata vs MutableLiveData  
+How to call extension functions from XML  
+Debounce operator in RxJava  
+Parent of ConstraintLayout  
+=============================================================
+Requirement
+
+Proficient with Android SDK, Java (Kotlin - nice to have), NDK.
+Experience with MVVM architecture, Android jetpack, SQLite, and knowledge of firebase.
+Deep understanding of google design principles and interface guidelines
+Familiar working with RESTful APIs, third-party libraries e.g. retrofit and volley, and knowledge of push notification services.
+Experience with Reactive programming - RxJava/RxAndroid/RxKotlin
+Knowledgeable with performance tuning, threading, and offline storage.
+You have an understanding of best practices - unit testing, code reviews, and CI/CD.
+Extra Points If You
+Hands-on experience writing high-quality unit and integration tests.
+Experience in writing and maintaining Gradle tasks and dependencies.
+Have experience with developing SDK or library.
+=======================================================================
+Hello,
+
+I have 5+ years of experience in Android development and have been working on React Native project since last 4 months.
+
+Hereby, I apply for the post of Senior Software Engineer (Android) and would like to take the opportunity for an interview where I can present my technical and analytical skills.
+
+Thanks,
+Shirin Ansari
