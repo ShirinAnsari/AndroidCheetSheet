@@ -1,6 +1,10 @@
+Topics:
 
-==========================================ANDROID============================================================
-
+Tuesday-OOPS,Kotlin,MVC/MVVM,Fragments,BLE,Job Scheduler,Service,Dependency Injection
+Wednesday-Android Framework,Android Jetpack(Room,LiveData,Navigation,View Model,Work Manager,Android KTX,paging lib)
+Thursday-RxJava,coroutines,latest Android features,stripe,map
+Friday-proect related questions,interview que
+==============================================================
 object-oriented concepts & design patterns.(Done)
 Kotlin.(Done)
 architecture like MVC, MVVM(Done)
@@ -16,11 +20,6 @@ Lollipop - key frameworks, tools, technologies end-user and developer enhancemen
 application profiling and instrumentation with debugger and gauges.
 Has shipped multiple Android applications and demonstrate this where possible.
 application deployment and Code-signing.
-==============================================================
-Friday-Android Jetpack.(Done)
-saturday-Ble(Done),React native(Done),
-Sunday - Purva's questions,project related reading(HID integration, Map integration, Stripe Payment integration,Push Notifications,Charts)(Done)
-Monday -Demo(Room, coroutine, mvvm, data binding,navigation graph,Live Data)
 ==============================================================
 What is ktx?  
 What is Jackson? Difference between Gson and Jackson  
@@ -59,7 +58,7 @@ Have experience with developing SDK or library.
 =======================================================================
 Hello,
 
-I have 5+ years of experience in Android development and have been working on React Native project since last 4 months.
+I have experience of 5.10 years in building high performance applications, have experience in Android (4 years and 10 months) and React Native (1 year).
 
 Hereby, I apply for the post of Senior Software Engineer (Android) and would like to take the opportunity for an interview where I can present my technical and analytical skills.
 
