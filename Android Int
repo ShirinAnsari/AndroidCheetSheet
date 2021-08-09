@@ -1,0 +1,67 @@
+
+==========================================ANDROID============================================================
+
+object-oriented concepts & design patterns.(Done)
+Kotlin.(Done)
+architecture like MVC, MVVM(Done)
+common Java and Android design patterns.
+Android compatibility APIs, Android Fragments.(Done)
+Android User Interface API, spanning multiple device configurations.
+networking with Async tasks and HttpConnection and loaders.
+Web Services and common data interchange formats: JSON, XML.
+Android Jetpack.(Done)
+Local data storage using SQLite databases(Done) and shared preferences(Done).
+google Fit and Bluetooth APIs.(Done)
+Lollipop - key frameworks, tools, technologies end-user and developer enhancements
+application profiling and instrumentation with debugger and gauges.
+Has shipped multiple Android applications and demonstrate this where possible.
+application deployment and Code-signing.
+==============================================================
+Friday-Android Jetpack.(Done)
+saturday-Ble(Done),React native(Done),
+Sunday - Purva's questions,project related reading(HID integration, Map integration, Stripe Payment integration,Push Notifications,Charts)(Done)
+Monday -Demo(Room, coroutine, mvvm, data binding,navigation graph,Live Data)
+==============================================================
+What is ktx?  
+What is Jackson? Difference between Gson and Jackson  
+var and val in kotlin  
+Extension functions  
+it keyword in kotlin  
+If else condition using let in kotlin  
+HTTP caching  
+How to make a global error class for Retrofit errors?  
+Use of Databinding  
+ConstraintLayout barrier and guideline  
+Explain RxJava Marble diagram  
+Map vs Flatmap  
+How to update observer using livedata only once  
+what is Lambda  
+Why not Koin? Why Dagger?  
+Why RxJava? Why not coroutines?  
+Livedata vs MutableLiveData  
+How to call extension functions from XML  
+Debounce operator in RxJava  
+Parent of ConstraintLayout  
+=============================================================
+Requirement
+
+Proficient with Android SDK, Java (Kotlin - nice to have), NDK.
+Experience with MVVM architecture, Android jetpack, SQLite, and knowledge of firebase.
+Deep understanding of google design principles and interface guidelines
+Familiar working with RESTful APIs, third-party libraries e.g. retrofit and volley, and knowledge of push notification services.
+Experience with Reactive programming - RxJava/RxAndroid/RxKotlin
+Knowledgeable with performance tuning, threading, and offline storage.
+You have an understanding of best practices - unit testing, code reviews, and CI/CD.
+Extra Points If You
+Hands-on experience writing high-quality unit and integration tests.
+Experience in writing and maintaining Gradle tasks and dependencies.
+Have experience with developing SDK or library.
+=======================================================================
+Hello,
+
+I have 5+ years of experience in Android development and have been working on React Native project since last 4 months.
+
+Hereby, I apply for the post of Senior Software Engineer (Android) and would like to take the opportunity for an interview where I can present my technical and analytical skills.
+
+Thanks,
+Shirin Ansari
