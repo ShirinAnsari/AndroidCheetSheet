@@ -1,8 +1,8 @@
 Topics:
 
-Tuesday-OOPS(Done),Kotlin,MVC/MVVM(Done),Fragments,BLE,Job Scheduler,Service,Dependency Injection
+Tuesday-OOPS(Done),Kotlin(Done),MVC/MVVM(Done),Fragments,Job Scheduler,Service
 Wednesday-Android Framework,Android Jetpack(Room,LiveData,Navigation,View Model,Work Manager,Android KTX,paging lib)
-Thursday-RxJava,coroutines,latest Android features,stripe,map
+Thursday-BLE,RxJava,coroutines,latest Android features,stripe,map
 Friday-proect related questions,interview que, sql query que
 ==============================================================
 object-oriented concepts & design patterns.(Done)
