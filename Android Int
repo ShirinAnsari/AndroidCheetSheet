@@ -2,8 +2,8 @@ Topics:
 
 Tuesday-OOPS(Done),Kotlin(Done),MVC/MVVM(Done),Fragments(Done)
 Wednesday-Android Jetpack(Done)(Room,LiveData,Navigation,View Model,Work Manager,Android KTX,paging lib),coroutines(Done)
-Thursday-BLE,RxJava,latest Android features, stripe, map, Service, Android Framework
-Friday-proect related questions,interview que, sql query que
+Thursday-BLE(Done),RxJava(Done),Service(Done)
+Friday-proect related questions(stripe,map),latest Android features,interview que, sql query que
 ==============================================================
 object-oriented concepts & design patterns.(Done)
 Kotlin.(Done)
